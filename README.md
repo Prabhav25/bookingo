@@ -19,6 +19,10 @@
 * Create a file named middleware.js in the root of your project directory to initialize private and public components.
 ![image](https://github.com/user-attachments/assets/e2a63f06-0a72-42f4-83fd-c1932a63986e)
 
+## Payment Gateways
+*We can use various payment gateways such as Razorpay, Stripe, PayPal, QR code payment systems, and others to facilitate the payment section.
+*Concept (Currently not implemented): When a user likes a particular property, they can add it to a "Liked" section. From there, they can enter their details and send an email to the property broker or owner. Once the property is confirmed, the user can proceed to book and pay for the rental online.
+
 
 ## Backend setup using Supabase
 
