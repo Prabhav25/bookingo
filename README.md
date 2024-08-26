@@ -1,12 +1,19 @@
 [Bookingo](https://bookingo-jade.vercel.app/)
 
+## Tech Stack
+* Next.JS
+* Tailwind CSS
+* Supabase
+* Formik
+* HTML/CSS
+* API Integration
+
 ## Software used
 
 * Clerk for authentication and User Management
 * Shadcn Tailwind CSS library
-* Formik for forms
 * Hyperui
-* Supabase as backend
+* Supabase for backend
 * Google Places Autocomplete
 * Vercel for deployment.
 
