@@ -2,14 +2,14 @@
 
 ## Software used
 
-* Software used:
+# Software used:
 * Clerk for authentication and User Management
-Shadcn Tailwind CSS library
-Formik for forms
-Hyperui
-Supabase as backend
-Google Places Autocomplete
-Vercel for deployment.
+* Shadcn Tailwind CSS library
+* Formik for forms
+* Hyperui
+* Supabase as backend
+* Google Places Autocomplete
+* Vercel for deployment.
 
 ## Authentication
 
