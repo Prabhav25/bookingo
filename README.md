@@ -2,8 +2,8 @@
 
 ## Software used
 
-*Software used:
-*Clerk for authentication and User Management
+* Software used:
+* Clerk for authentication and User Management
 Shadcn Tailwind CSS library
 Formik for forms
 Hyperui
